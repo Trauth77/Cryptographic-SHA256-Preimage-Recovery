@@ -5,7 +5,6 @@ Empirical validation of SHA-256 preimage recovery using GCIS neural architecture
 
 **Author:** Stefan Trauth  
 **Affiliation:** Independent Researcher, Neural Systems & Emergent Intelligence Laboratory  
-**Contact:** Info@Trauth-Research.com  
 **DOI:** [10.5281/zenodo.18305804](https://doi.org/10.5281/zenodo.18305804)  
 **License:** CC BY-NC-ND 4.0
 
